@@ -1,0 +1,25 @@
+{
+  "name": "doc-1",
+  "version": "1.0.0",
+  "description": "vuepress熟练操作",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev1": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/development-one/doc-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/development-one/doc-1/issues"
+  },
+  "homepage": "https://github.com/development-one/doc-1#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
